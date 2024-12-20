@@ -16,3 +16,9 @@
 * read-rdfs-ttl.py - Reads a ttl data fragment in memory using the rdflib library
 * enforce-rdfs.py - Allows the enforcement of RDFS constraints using SPARQL
 
+## Usage Example
+
+```
+# python read-rdfs-ttl.py
+```
+
